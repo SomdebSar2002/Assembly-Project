@@ -20,7 +20,7 @@ Good news: unlike Marvel Endgame, **no one gets hurt** — you get confetti inst
 - The implementation was done **step by step by me**
 - No copy-paste solution — logic and UI were built incrementally
 - A few **AI feedback nudges** were used when absolutely necessary  
-  (just like *Kamaru Usman jabs to Masvidal* 🥊 — precise, not spam)
+  (just like *Kamaru Usman EXTRA SHOTS to Masvidal* 🥊 — precise, not spam)
 
 ---
 
